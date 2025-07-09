@@ -7,6 +7,6 @@ public class App
     {
         System.out.println( "Hello from Continuous Integration Trigger!" );
 	System.out.println(" DevOpsLab4 completed on basis of first line of output!");
-	System.out.println1("2021wa86442");
+	System.out.println("2021wa86442");
     }
 }
